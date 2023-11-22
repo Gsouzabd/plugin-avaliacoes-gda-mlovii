@@ -1,0 +1,19 @@
+{
+    "name": "gabrielsouza/gerenciador-de-avaliacoes",
+    "description": "Gerenciador de Avaliações Plugin",
+    "type": "project",
+    "license": "GPL",
+    "autoload": {
+      
+        "psr-4":{"Inc_GDA\\": "./inc"}
+        
+    },
+    "authors": [
+        {
+            "name": "gabrielsouza",
+            "email": "gabrielsouzabd@outlook.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
